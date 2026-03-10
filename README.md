@@ -1,9 +1,10 @@
 # 💫 About Me:
 👋 Hi, I’m Hussein  
-💻 Student **Full-Stack Developer** & **Software Engineering** enthusiast  
-🚀 Experience building end-to-end web applications with a focus on clean, scalable code  
-🧠 Always learning, improving, and curious about how systems work  
-📈 Actively growing my skills through real projects  
+🤖 Student **AI Engineer** enthusiast  
+🧠 Passionate about machine learning, AI systems, and how intelligent models work  
+💻 Experience building end-to-end applications with a focus on clean, scalable code  
+🚀 Always learning and improving through real AI and software projects  
+📈 Working toward becoming a professional AI engineer
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/husshuss356)
@@ -13,10 +14,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
