@@ -2,7 +2,7 @@
 👋 Hi, I’m Hussein  
 🤖 Student **AI Engineer** enthusiast  
 🧠 Passionate about machine learning, AI systems, and how intelligent models work  
-💻 Experience building end-to-end applications with a focus on clean, scalable code  
+💻 building end-to-end applications with a focus on clean, scalable code  
 🚀 Always learning and improving through real AI and software projects  
 📈 Working toward becoming a professional AI engineer
 
